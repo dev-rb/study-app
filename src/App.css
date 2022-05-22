@@ -1,0 +1,29 @@
+.App {
+  overflow: hidden;
+}
+
+.App::before {
+  content: '';
+  width: 22rem;
+  height: 22rem;
+  position: fixed;
+  bottom: -6rem;
+  right: -8rem;
+  background-image: url('./assets/leafs.png');
+  background-position: 0 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.App::after {
+  content: 'Study';
+  position: fixed;
+  left: -3.5rem;
+  top: 50%;
+  bottom: 50%;
+  font-size: 14rem;
+  font-weight: 700;
+  color: #4f5b652f;
+  z-index: -10;
+  transform: rotate(90deg);
+}

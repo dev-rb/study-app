@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <g id="Group_606" data-name="Group 606" transform="translate(-40 -40)">
+    <g id="Ellipse_187" data-name="Ellipse 187" transform="translate(40 40)" fill="#fff" stroke="#228be6" stroke-width="6">
+      <circle cx="25.5" cy="25.5" r="25.5" stroke="none"/>
+      <circle cx="25.5" cy="25.5" r="22.5" fill="none"/>
+    </g>
+    <text id="S" transform="translate(52 80)" fill="#228be6" font-size="35" font-family="Anurati-Regular, Anurati"><tspan x="0" y="0">S</tspan></text>
+  </g>
+</svg>
